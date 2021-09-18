@@ -5,4 +5,5 @@
 **훈련기록** : [노션(Notion)](https://www.notion.so/2f918da2c14f4cd88c9e261bc1defc67?v=65f69cfcc2d543d8a77fb8d9cccc2edb)  
 **피훈련자** : Esantomi  
 
+## 참고
 ![image](https://user-images.githubusercontent.com/61646760/129120017-7bfeba59-84bf-49b0-a5ac-9c537412adaa.png) 
